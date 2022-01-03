@@ -126,6 +126,6 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerRender(controlPagination);
 
-  newFeature();
+  console.log('Welcome');
 };
 init();
